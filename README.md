@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 웹 성능 최적화와 사용자 경험 개선에 열정을 가지고 있습니다
 - 👨‍💻 JavaScript와 React 생태계를 주로 다루며 개발하고 있습니다
 - 🤝 팀 프로젝트에서 개발 리드를 맡아 성공적으로 프로젝트를 이끈 경험이 있습니다
-- 
+
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
